@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_lavender.mk
+    $(LOCAL_DIR)/superior_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_lavender-user \
-    xtended_lavender-userdebug \
-    xtended_lavender-eng
+    superior_lavender-user \
+    superior_lavender-userdebug \
+    superior_lavender-eng
