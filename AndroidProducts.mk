@@ -4,4 +4,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     aosp_lavender-user \
     aosp_lavender-userdebug \
-    _lavender-eng
+    aosp_lavender-eng
